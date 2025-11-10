@@ -1,0 +1,64 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form {
+    background-color:black;
+    padding: 40px 40px;
+    box-shadow: 0px 8px 25px rgba(0, 0, 0, 0.2);
+    width: 320px;
+    text-align: center;
+
+}
+
+h1 {
+    color:white;
+    margin-top: 20px;
+    margin-bottom: 30px;
+   
+
+}
+
+input[type="text"], input[type="password"], select {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    outline: none;
+    font-size: 14px;
+    background-color: lightgray;
+
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+#loginid {
+    background-color: green;
+    color: white;
+}
+
+#cancelid {
+    background-color: #f44336;
+    color: white;
+}
+
+label {
+    font-weight: bold;
+    color:white;
+    font-size: 18px;
+}
+#abc{
+    color:red;
+}
