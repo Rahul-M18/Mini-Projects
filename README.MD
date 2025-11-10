@@ -1,1 +1,1 @@
-These are a small web projects built using HTML, CSS, and JavaScript. It demonstrates basic front-end development concepts including semantic HTML structure, custom styling with CSS, and dynamic functionality using JavaScript.
+These are a small web applications built using HTML, CSS, and JavaScript. It demonstrates basic front-end development concepts including semantic HTML structure, custom styling with CSS, and dynamic functionality using JavaScript.
